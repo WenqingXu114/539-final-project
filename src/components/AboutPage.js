@@ -52,12 +52,14 @@ function AboutPage() {
           />
           <Preview
             imgSrc={HistoryImage}
+            altText="Women history"
             title="History / Politics"
             description="This page features bios of important women in history and women currently in Congress or otherwise politically involved."
             link="/history"
           />
           <Preview
             imgSrc={DictionaryImage}
+            altText="Word cloud"
             title="Feminist Dictionary"
             description="This page features a collection of important feminist terminology that might make reading easier. These will include formal definitions and my own understandings of the terms."
             link="/dictionary"
